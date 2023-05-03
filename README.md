@@ -13,3 +13,6 @@ In PowerBI, it is also possible to move the visualizations on the reporting canv
 dragging it. We can also switch between different type of charts and visualizations from the 
 visualization panel. It attempts to convert the selected fields to the new visual type as closely as
 possible.
+
+
+Here we are analysing the Super Store Dataset using PowerBI
